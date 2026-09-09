@@ -1,0 +1,23 @@
+src/pages/index.tsx
+  s_cf587f3cd85292::t_29d97081e39700 8
+src/components/EnglishReader.tsx
+  s_cf587f3cd85292::t_db4f61d55e76d4 2,19-20,24
+src/components/EnglishSidebar.tsx
+  s_cf587f3cd85292::t_db4f61d55e76d4 18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "2253166f0ec86c2112fc451b082f9414b9e4598b",
+  "prompts": {},
+  "sessions": {
+    "s_cf587f3cd85292": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0850c-8918-7953-adbb-2b8158e27e6c",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "lijinhai255 <47961590+lijinhai255@users.noreply.github.com>"
+    }
+  }
+}
