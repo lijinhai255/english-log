@@ -1,0 +1,71 @@
+"data/English/01.Talking About Yourself.md"
+  s_5aa81ea09edb6b::t_cf06222456617f 1-43
+"data/English/02.Talking About Strengths.md"
+  s_5aa81ea09edb6b::t_6f04df977150c6 1-78
+"data/English/03. Job Responsibilities.md"
+  s_5aa81ea09edb6b::t_0c4fc9f99e8e85 1-49
+"data/English/04.alking About Work Experience.md"
+  s_5aa81ea09edb6b::t_b7444ca31482f3 1-55
+"data/English/05. Explaining Why You Applied for the Position.md"
+  s_5aa81ea09edb6b::t_f6198e12745a5d 1-53
+"data/English/06. Orientation.md"
+  s_5aa81ea09edb6b::t_2303b96f588db6 1-116
+"data/English/07. Work Schedules.md"
+  s_5aa81ea09edb6b::t_4758c406483d89 1-152
+"data/English/08.give Indormation.md"
+  s_5aa81ea09edb6b::t_2fd68218f21f72 1-146
+"data/English/09. Arranging a Meeting.md"
+  s_5aa81ea09edb6b::t_de4180ec543b39 1-152
+data/English/1.programmingConcepts&Codestructure.md
+  s_5aa81ea09edb6b::t_4692e2f7068f13 1-269
+"data/English/10. Make a Request.md"
+  s_5aa81ea09edb6b::t_a519bf3d46a459 1-147
+"data/English/11.Make a metting.md"
+  s_5aa81ea09edb6b::t_8cbf9267a89749 1-171
+"data/English/12. Making Requests in the Meeting.md"
+  s_5aa81ea09edb6b::t_17edba9bda3cb4 1-21
+next-env.d.ts
+  s_5aa81ea09edb6b::t_11b1a562efd5f9 1-5
+"public/english/01.Talking About Yourself.md"
+  s_5aa81ea09edb6b::t_d6461df3e351d8 1-43
+"public/english/02.Talking About Strengths.md"
+  s_5aa81ea09edb6b::t_fc853971696bd1 1-78
+"public/english/03. Job Responsibilities.md"
+  s_5aa81ea09edb6b::t_836779e9725058 1-49
+"public/english/04.alking About Work Experience.md"
+  s_5aa81ea09edb6b::t_d46c86bf07fb69 1-55
+"public/english/05. Explaining Why You Applied for the Position.md"
+  s_5aa81ea09edb6b::t_4e52b0eda5bc9d 1-53
+"public/english/06. Orientation.md"
+  s_5aa81ea09edb6b::t_634559f6984bf2 1-116
+"public/english/07. Work Schedules.md"
+  s_5aa81ea09edb6b::t_0ca26cec1173fd 1-152
+"public/english/08.give Indormation.md"
+  s_5aa81ea09edb6b::t_485b66e3d14de8 1-146
+"public/english/09. Arranging a Meeting.md"
+  s_5aa81ea09edb6b::t_42747943a9d91b 1-152
+public/english/1.programmingConcepts&Codestructure.md
+  s_5aa81ea09edb6b::t_9beb62be113504 1-269
+"public/english/10. Make a Request.md"
+  s_5aa81ea09edb6b::t_7b3f3320b46ca1 1-147
+"public/english/11.Make a metting.md"
+  s_5aa81ea09edb6b::t_0bc4f153481a9d 1-171
+"public/english/12. Making Requests in the Meeting.md"
+  s_5aa81ea09edb6b::t_c55d2c03ee7edb 1-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "7062fdf2fe9ee884a28db4cfe2722fc675e0f742",
+  "prompts": {},
+  "sessions": {
+    "s_5aa81ea09edb6b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01a0850c-8918-7953-adbb-2b8158e27e6c",
+        "model": "unknown"
+      },
+      "human_author": "lijinhai255 <47961590+lijinhai255@users.noreply.github.com>"
+    }
+  }
+}
