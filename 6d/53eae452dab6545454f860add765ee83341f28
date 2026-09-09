@@ -1,0 +1,19 @@
+src/components/EnglishReader.tsx
+  s_c3472a7fb622e5::t_1bdc16048397c6 24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "6d53eae452dab6545454f860add765ee83341f28",
+  "prompts": {},
+  "sessions": {
+    "s_c3472a7fb622e5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a08594-8022-75d0-afa6-4ffcc2d4ccd7",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "lijinhai255 <47961590+lijinhai255@users.noreply.github.com>"
+    }
+  }
+}
