@@ -15,7 +15,7 @@ export function EnglishSidebar({ items, selectedId, onSelect }: Props) {
     <aside className="flex h-full min-h-0 flex-col">
       <div className="border-b border-slate-100 p-4 dark:border-slate-800">
         <div className="mb-3 flex items-center gap-2 text-sm font-semibold text-slate-900 dark:text-white">
-          <ReaderIcon className="text-violet-600" /> Course library
+          <ReaderIcon className="text-violet-600" /> Lessons
           <span className="ml-auto rounded-full bg-violet-50 px-2 py-0.5 text-xs text-violet-600 dark:bg-violet-950">{items.length}</span>
         </div>
         <label className="relative block">
