@@ -12,7 +12,8 @@ export interface EnglishItem {
   wordCount: number
 }
 
-const root = path.join(process.cwd(), 'data', 'English')
+// Keep lesson content next to the images it references in the public folder.
+const root = path.join(process.cwd(), 'public', 'english')
 const markdown = new MarkdownIt({ html: false, linkify: true, typographer: true })
 
 function imagePath(src: string) {
