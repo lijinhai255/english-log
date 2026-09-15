@@ -1,0 +1,28 @@
+"public/english/12. Making Requests in the Meeting.md"
+  h_490cfe78535d7b 21-68,70-107
+src/lib/english.ts
+  s_c3472a7fb622e5::t_fd92a670748103 15-16
+"public/english/11.Make a metting.md"
+  h_490cfe78535d7b 172-173
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "2fc33a0f2fbec049afc0f9e7f5769d5ba8e49225",
+  "prompts": {},
+  "humans": {
+    "h_490cfe78535d7b": {
+      "author": "lijinhai255 <47961590+lijinhai255@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_c3472a7fb622e5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a08594-8022-75d0-afa6-4ffcc2d4ccd7",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "lijinhai255 <47961590+lijinhai255@users.noreply.github.com>"
+    }
+  }
+}
